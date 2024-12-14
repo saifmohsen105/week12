@@ -1,0 +1,9 @@
+@media (max-width:600px){
+
+    nav{
+        width: 90%!important;
+    }
+    .container{
+        width: 100%!important;
+    }
+}
